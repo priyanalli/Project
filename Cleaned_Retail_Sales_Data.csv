@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,Gender,Age,Product_Category,Product_Name,Quantity,Unit_Price,Sales,Region,Payment_Mode
+ORD0001,2024-02-28,CUST891,Male,42,Clothing,Jeans,4,14,56,North,Credit Card
+ORD0002,2024-03-28,CUST791,Male,43,Clothing,Jacket,2,28,56,North,Credit Card
+ORD0003,2024-05-01,CUST405,Male,19,Grocery,Milk,4,15,60,South,Credit Card
+ORD0004,2024-02-27,CUST641,Female,53,Electronics,Laptop,3,27,81,East,Debit Card
+ORD0005,2024-06-24,CUST242,Female,42,Clothing,T-Shirt,4,98,392,North,Online
+ORD0006,2024-08-09,CUST473,Female,45,Electronics,Smartphone,2,26,52,West,Online
+ORD0007,2024-05-27,CUST300,Male,55,Clothing,Jeans,2,42,84,North,Debit Card
+ORD0008,2024-07-13,CUST887,Male,44,Home,Chair,3,90,270,West,Credit Card
+ORD0009,2024-10-14,CUST854,Female,57,Electronics,Laptop,2,78,156,West,Credit Card
+ORD0010,2024-11-13,CUST652,Male,25,Clothing,Jeans,1,148,148,North,Debit Card
+ORD0011,2024-03-01,CUST667,Male,36,Home,Chair,1,116,116,West,Credit Card
+ORD0012,2024-01-05,CUST751,Male,19,Home,Chair,1,53,53,East,Credit Card
+ORD0013,2024-03-06,CUST280,Male,60,Clothing,T-Shirt,5,24,120,South,Cash
+ORD0014,2024-07-16,CUST575,Female,64,Home,Lamp,2,128,256,South,Credit Card
+ORD0015,2024-06-05,CUST738,Male,23,Clothing,Jeans,2,55,110,North,Online
+ORD0016,2024-05-09,CUST458,Male,57,Clothing,Jacket,3,17,51,East,Cash
+ORD0017,2024-12-11,CUST939,Male,21,Electronics,Smartphone,3,42,126,East,Cash
+ORD0018,2024-01-13,CUST833,Female,23,Clothing,Jacket,5,63,315,East,Debit Card
+ORD0019,2024-11-21,CUST227,Female,59,Home,Table,2,81,162,East,Debit Card
+ORD0020,2024-11-16,CUST602,Male,18,Grocery,Snacks,3,108,324,East,Debit Card
+ORD0021,2024-12-11,CUST853,Female,22,Clothing,Jeans,2,70,140,South,Online
+ORD0022,2024-09-03,CUST484,Male,21,Home,Table,2,76,152,South,Debit Card
+ORD0023,2024-02-18,CUST410,Male,46,Grocery,Snacks,2,74,148,North,Cash
+ORD0024,2024-07-12,CUST473,Male,30,Clothing,Jacket,1,139,139,West,Online
+ORD0025,2024-09-04,CUST565,Female,43,Electronics,Laptop,1,58,58,South,Credit Card
+ORD0026,2024-11-23,CUST616,Female,33,Home,Table,1,59,59,West,Online
+ORD0027,2024-12-21,CUST930,Male,63,Clothing,Jeans,3,107,321,East,Credit Card
+ORD0028,2024-04-26,CUST373,Male,19,Electronics,Headphones,2,46,92,West,Credit Card
+ORD0029,2024-03-23,CUST859,Female,31,Home,Chair,5,68,340,North,Debit Card
+ORD0030,2024-01-03,CUST994,Female,38,Electronics,Smartphone,2,71,142,South,Online
+ORD0031,2024-11-14,CUST831,Male,49,Electronics,Laptop,3,110,330,South,Credit Card
+ORD0032,2024-07-18,CUST919,Male,43,Grocery,Rice,4,54,216,South,Debit Card
+ORD0033,2024-08-12,CUST997,Female,55,Electronics,Laptop,1,86,86,South,Debit Card
+ORD0034,2024-07-13,CUST607,Female,59,Clothing,Jeans,5,79,395,East,Online
+ORD0035,2024-05-08,CUST846,Female,32,Home,Chair,3,61,183,West,Credit Card
+ORD0036,2024-08-14,CUST868,Male,35,Grocery,Rice,3,118,354,South,Credit Card
+ORD0037,2024-05-18,CUST871,Male,19,Grocery,Rice,5,109,545,West,Cash
+ORD0038,2024-04-15,CUST857,Female,21,Grocery,Milk,1,127,127,West,Cash
+ORD0039,2024-12-06,CUST425,Female,22,Clothing,Jacket,4,19,76,East,Online
+ORD0040,2024-06-14,CUST957,Male,54,Electronics,Smartphone,3,137,411,South,Online
+ORD0041,2024-11-19,CUST130,Female,37,Grocery,Snacks,4,106,424,North,Credit Card
+ORD0042,2024-08-03,CUST713,Male,41,Grocery,Milk,3,38,114,South,Online
+ORD0043,2024-09-27,CUST270,Male,24,Home,Lamp,4,20,80,South,Cash
+ORD0044,2024-12-17,CUST423,Female,42,Clothing,Jeans,5,84,420,East,Cash
+ORD0045,2024-05-19,CUST219,Female,32,Clothing,Jacket,4,20,80,East,Online
+ORD0046,2024-10-24,CUST663,Male,60,Electronics,Laptop,5,43,215,West,Credit Card
+ORD0047,2024-10-28,CUST629,Male,31,Clothing,Jeans,3,63,189,East,Debit Card
+ORD0048,2024-08-05,CUST519,Male,57,Grocery,Rice,5,72,360,West,Debit Card
+ORD0049,2024-01-01,CUST826,Male,61,Clothing,T-Shirt,1,133,133,East,Cash
+ORD0050,2024-08-16,CUST399,Female,41,Clothing,Jacket,4,7,28,East,Debit Card
+ORD0051,2024-07-07,CUST582,Female,47,Clothing,Jacket,4,77,308,North,Cash
+ORD0052,2024-01-28,CUST563,Female,61,Grocery,Snacks,5,133,665,South,Credit Card
+ORD0053,2024-08-26,CUST239,Female,50,Clothing,T-Shirt,1,129,129,West,Online
+ORD0054,2024-09-07,CUST448,Female,58,Home,Chair,5,7,35,West,Online
+ORD0055,2024-12-15,CUST324,Female,57,Clothing,Jacket,2,114,228,South,Cash
+ORD0056,2024-08-21,CUST758,Male,22,Home,Lamp,2,102,204,North,Debit Card
+ORD0057,2024-01-03,CUST657,Male,21,Grocery,Milk,3,145,435,North,Credit Card
+ORD0058,2024-03-16,CUST105,Male,43,Electronics,Smartphone,3,114,342,East,Debit Card
+ORD0059,2024-07-04,CUST751,Female,24,Home,Chair,5,131,655,North,Online
+ORD0060,2024-07-07,CUST280,Male,19,Home,Table,3,117,351,West,Cash
+ORD0061,2024-10-27,CUST616,Female,22,Home,Chair,3,76,228,West,Credit Card
+ORD0062,2024-03-06,CUST425,Male,19,Home,Chair,4,76,304,West,Debit Card
+ORD0063,2024-08-05,CUST949,Female,64,Home,Table,5,25,125,South,Cash
+ORD0064,2024-11-20,CUST410,Male,34,Clothing,Jacket,1,74,74,West,Debit Card
+ORD0065,2024-07-21,CUST932,Male,47,Home,Lamp,5,129,645,North,Credit Card
+ORD0066,2024-07-27,CUST294,Male,36,Grocery,Rice,3,104,312,West,Debit Card
+ORD0067,2024-12-06,CUST936,Female,26,Grocery,Snacks,5,61,305,West,Cash
+ORD0068,2024-05-08,CUST195,Female,55,Clothing,T-Shirt,3,95,285,North,Cash
+ORD0069,2024-06-27,CUST893,Male,52,Grocery,Snacks,3,42,126,North,Online
+ORD0070,2024-01-20,CUST642,Female,48,Clothing,Jacket,4,147,588,South,Debit Card
+ORD0071,2024-12-20,CUST617,Male,40,Clothing,Jeans,3,94,282,West,Debit Card
+ORD0072,2024-02-26,CUST139,Male,47,Grocery,Rice,2,86,172,West,Debit Card
+ORD0073,2024-07-25,CUST165,Male,38,Home,Lamp,3,90,270,North,Online
+ORD0074,2024-07-06,CUST238,Female,64,Electronics,Laptop,1,85,85,West,Credit Card
+ORD0075,2024-12-20,CUST852,Male,27,Grocery,Rice,3,120,360,South,Credit Card
+ORD0076,2024-09-28,CUST331,Female,61,Grocery,Milk,4,35,140,South,Credit Card
+ORD0077,2024-09-23,CUST569,Male,53,Electronics,Laptop,1,123,123,North,Credit Card
+ORD0078,2024-04-27,CUST574,Female,26,Home,Table,2,126,252,North,Online
+ORD0079,2024-05-09,CUST674,Male,25,Clothing,Jeans,2,121,242,West,Debit Card
+ORD0080,2024-05-03,CUST721,Male,53,Home,Lamp,1,61,61,North,Credit Card
+ORD0081,2024-11-14,CUST584,Male,53,Home,Table,1,97,97,East,Debit Card
+ORD0082,2024-12-08,CUST314,Female,31,Electronics,Headphones,4,136,544,West,Cash
+ORD0083,2024-05-03,CUST360,Male,51,Electronics,Headphones,4,14,56,South,Cash
+ORD0084,2024-05-02,CUST645,Male,59,Home,Lamp,3,129,387,South,Credit Card
+ORD0085,2024-02-21,CUST511,Female,48,Home,Chair,4,130,520,East,Debit Card
+ORD0086,2024-09-09,CUST734,Female,36,Grocery,Milk,3,119,357,East,Online
+ORD0087,2024-04-28,CUST222,Male,41,Home,Lamp,5,127,635,West,Cash
+ORD0088,2024-06-05,CUST623,Female,19,Grocery,Milk,1,25,25,East,Debit Card
+ORD0089,2024-06-21,CUST928,Male,57,Home,Chair,4,13,52,West,Cash
+ORD0090,2024-04-01,CUST667,Male,27,Electronics,Smartphone,3,17,51,South,Cash
+ORD0091,2024-03-12,CUST622,Male,52,Grocery,Snacks,2,106,212,West,Debit Card
+ORD0092,2024-02-27,CUST439,Female,60,Electronics,Smartphone,4,63,252,South,Debit Card
+ORD0093,2024-05-12,CUST764,Female,65,Grocery,Milk,4,105,420,North,Debit Card
+ORD0094,2024-07-11,CUST324,Female,20,Grocery,Snacks,2,57,114,West,Debit Card
+ORD0095,2024-07-18,CUST475,Female,40,Grocery,Snacks,1,51,51,South,Cash
+ORD0096,2024-06-16,CUST774,Female,53,Electronics,Smartphone,3,52,156,East,Credit Card
+ORD0097,2024-04-22,CUST381,Female,55,Clothing,Jeans,1,67,67,East,Online
+ORD0098,2024-08-01,CUST151,Female,26,Home,Chair,2,76,152,West,Debit Card
+ORD0099,2024-03-26,CUST553,Female,24,Clothing,T-Shirt,3,83,249,South,Online
+ORD0100,2024-08-17,CUST378,Male,34,Grocery,Milk,5,117,585,North,Debit Card
