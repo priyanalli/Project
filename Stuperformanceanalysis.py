@@ -47,7 +47,7 @@ plt.title("Subject-wise Score Comparison")
 plt.ylabel("Scores")
 plt.show()
 
-# Step 8: Correlation between attendance and scores (Seaborn)
+# Step 8: Co-relation between attendance and scores (Seaborn)
 plt.figure()
 sns.heatmap(
     df[["attendance_percentage", "math_score", "science_score", "english_score"]].corr(),
